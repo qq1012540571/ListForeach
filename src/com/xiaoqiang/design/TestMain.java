@@ -15,7 +15,7 @@ public class TestMain {
         ProxySaler proxySaler=new ProxySaler();
         Person object= (Person) proxySaler.newInstall(new xiaoQiang("黄豪强","南山区"));
         object.buy1();
-        object.buy();
+
 
 
 
